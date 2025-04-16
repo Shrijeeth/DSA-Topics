@@ -32,7 +32,7 @@ DSA-Topics/
 
 ## Contents
 
-- **Linked Lists**: Tutorials and problems related to singly and doubly linked lists, including reversal and traversal operations.
+- **Linked Lists**: Tutorials and problems related to singly, doubly, and circular linked lists, including operations and algorithms.
 
 ## Contributing
 
