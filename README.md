@@ -33,6 +33,7 @@ DSA-Topics/
 ## Contents
 
 - **Linked Lists**: Tutorials and problems related to singly, doubly, and circular linked lists, including operations and algorithms.
+- **Stacks**: Tutorials and problems related to stack data structure, including stack operations (push, pop, peek), applications, and common algorithms.
 
 ## Contributing
 
